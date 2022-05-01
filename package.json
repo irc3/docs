@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "IRC3 documents",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irc3/docs.git"
+  },
+  "keywords": [
+    "irc3",
+    "document"
+  ],
+  "author": "banyudu <banyudu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irc3/docs/issues"
+  },
+  "homepage": "https://github.com/irc3/docs#readme"
+}
